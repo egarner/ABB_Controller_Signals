@@ -25,6 +25,7 @@ namespace ABB_Controller_Signals
                 Console.WriteLine("IPAddress: " + c.IPAddress);
                 Console.WriteLine("Availability: " + c.Availability);
                 Console.WriteLine("State: " + aController.State);
+                Console.WriteLine("Operating Mode: " + aController.OperatingMode);
                 Console.WriteLine("Base Directory: " + c.BaseDirectory);
                 Console.WriteLine("Hostname: " + c.HostName);
                 Console.WriteLine("ID: " + c.Id);
