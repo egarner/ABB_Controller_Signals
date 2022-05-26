@@ -1,0 +1,9 @@
+C:\Users\egarn\OneDrive\Documents\source code\ABB_Console\ABB_Controller_Signals\ABB_Controller_Signals\obj\Debug\ABB_Controller_Signals.csproj.AssemblyReference.cache
+C:\Users\egarn\OneDrive\Documents\source code\ABB_Console\ABB_Controller_Signals\ABB_Controller_Signals\obj\Debug\ABB_Controller_Signals.csproj.CoreCompileInputs.cache
+C:\Users\egarn\OneDrive\Documents\source code\ABB_Console\ABB_Controller_Signals\ABB_Controller_Signals\bin\Debug\ABB_Controller_Signals.exe.config
+C:\Users\egarn\OneDrive\Documents\source code\ABB_Console\ABB_Controller_Signals\ABB_Controller_Signals\bin\Debug\ABB_Controller_Signals.exe
+C:\Users\egarn\OneDrive\Documents\source code\ABB_Console\ABB_Controller_Signals\ABB_Controller_Signals\bin\Debug\ABB_Controller_Signals.pdb
+C:\Users\egarn\OneDrive\Documents\source code\ABB_Console\ABB_Controller_Signals\ABB_Controller_Signals\bin\Debug\ABB.Robotics.Controllers.PC.xml
+C:\Users\egarn\OneDrive\Documents\source code\ABB_Console\ABB_Controller_Signals\ABB_Controller_Signals\obj\Debug\ABB_Controller_Signals.csproj.CopyComplete
+C:\Users\egarn\OneDrive\Documents\source code\ABB_Console\ABB_Controller_Signals\ABB_Controller_Signals\obj\Debug\ABB_Controller_Signals.exe
+C:\Users\egarn\OneDrive\Documents\source code\ABB_Console\ABB_Controller_Signals\ABB_Controller_Signals\obj\Debug\ABB_Controller_Signals.pdb
